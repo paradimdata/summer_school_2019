@@ -1,6 +1,6 @@
-# NSF 2D Framework Workshop November 2018
+# PARADIM Summer School July 2019 @ JHU
 
-##### Shared files for 2018 NSF 2D Materials Data Framework Training Workshop training organized by PARADIM and NIST
+##### Shared files for 2019 Summer School organized by PARADIM
 ---
 
 ## Handy Resources:
